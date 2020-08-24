@@ -1,7 +1,9 @@
-### Hi there 👋
+### Goofing around with the "secret" github feature!
 
 <!--
 **shuttlenaut/shuttlenaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/s960x960/118009779_782195982609910_4102101926581811487_o.jpg?_nc_cat=106&_nc_sid=e3f864&_nc_ohc=LiiaAXXFlccAX93xcds&_nc_ht=scontent-sin6-1.xx&_nc_tp=7&oh=175976281f9d56ff0d811b91dcad913e&oe=5F693328">
 
 Here are some ideas to get you started:
 
